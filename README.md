@@ -7,7 +7,7 @@ This is my OpenLane repository in which i perform the synthesis of different des
 
 **NETLIST:** It is basically a combination of sequential elements and their logical connectivity
 
-# OPENALANE_INSTALLATION 
+# OPENLANE_INSTALLATION 
 
 The short version is, to install the OpenLane environment...
 
