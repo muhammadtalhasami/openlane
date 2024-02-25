@@ -1,7 +1,7 @@
 # INTRO
 ![logo](https://github.com/muhammadtalhasami/openlane/blob/main/designs/ram_8x72/src/klayout_8x72.png)
 
-This is my OpenLane repository in which i perform the synthesis of different designs modules.
+This is my OpenLane repository in which i perform the synthesis of different design modules.
 
 **SYNTHESIS:** synthesis is the process of converting RTL(synthesizable verilog code)to technology specific gate level netlist.
 
