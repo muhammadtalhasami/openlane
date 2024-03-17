@@ -55,4 +55,7 @@ follow this command on your terminal:-
 1): sudo apt-get install klayout
 ```
 
+# CONTRIBUTION
 
+We welcome contributions from the community to enhance the repository with new projects, improvements, and additional resources. If you 
+have ideas or suggestions, feel free to fork the repository, make your changes, and submit a pull request.
